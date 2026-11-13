@@ -3,7 +3,6 @@ numpy
 scipy 
 scikit-learn==1.9.1 
 nltk 
-gensim 
 spacy==3.8.16 
 matplotlib 
 joblib 
